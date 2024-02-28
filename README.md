@@ -5,3 +5,5 @@ Estado del proyecto en contruccion
 Lo que se necesita para ejecutar el sistema
 
 ```npm install react```
+
+Sistema de registro 2
